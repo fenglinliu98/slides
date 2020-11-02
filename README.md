@@ -1,7 +1,7 @@
 # Slides/Posters
 This project contains the slides or posters of my published papers.
 
-## Reference
+## References
 If you use these slides or poster as part of any published research, please consider to acknowledge the following paper, thanks:
 
 
