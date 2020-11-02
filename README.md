@@ -1,4 +1,4 @@
-# slides
+# Slides/Posters
 This project contains the slides or posters of my published papers.
 
 ## Reference
